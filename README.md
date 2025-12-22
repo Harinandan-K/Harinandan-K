@@ -1,5 +1,4 @@
-## "Hello There!!"
-##~~General Grievous: General Kenobi!~~ 
+## "Hello There!!" ~~Grievous: General Kenobi!~~ 
 
 I m Harinandan.K, 2nd year BCA student at JAIN University. 
 
