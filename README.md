@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Hello+There!!;I+use+Arch+btw.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1793D1&center=true&vCenter=true&width=500&lines=Hello+There!!;I+use+Arch+btw.;Welcome+to+my+profile." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,55 +11,40 @@
 
 <br/>
 
-```bash
-terminal@harinandan:~$ ./welcome.sh
+<pre>
+<b>harinandan@arch-linux</b>:~ ./welcome.sh
 
-# -----------------------------------------------------
-# SYSTEM INFO
-# -----------------------------------------------------
-  User:        Harinandan.K
-  Role:        2nd Year BCA Student @ JAIN University
-  Uptime:      19 Years
-  Resolution:  1920x1080 (Mental Clarity)
+      /\          User       ->  Harinandan.K
+     /  \         Role       ->  2nd Year BCA Student @ JAIN University
+    /    \        Uptime     ->  19 Years
+   /      \       Resolution ->  1920x1080 (Mental Clarity)
+  /   ,,   \
+ /   |  |   \
+/_-''    ''-_\
 
-# -----------------------------------------------------
-# MY SKILLS
-# -----------------------------------------------------
 
-terminal@harinandan:~$ sudo pacman -Syu
+<b>harinandan@arch-linux:</b>~$ tree -L 3
 
-:: Synchronizing package databases...
-:: Starting full system upgrade...
+<b>My_Skills</b>
+|
+├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Proficient</b>
+│   ├── <img src="https://cdn.simpleicons.org/c/A8B9CC" height="15"/> C_Language        80%
+│   ├── <img src="https://cdn.simpleicons.org/python/3776AB" height="15"/> Python            40%
+│   ├── <img src="https://cdn.simpleicons.org/mysql/4479A1" height="15"/> SQL_Database      50%
+│   ├── <img src="https://cdn.simpleicons.org/git/F05032" height="15"/> Git_Control       70%
+│   └── <img src="https://cdn.simpleicons.org/openai/412991" height="15"/> GenAI_Prompting   70%
+│
+├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Learning_Path</b>
+│   ├── <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="15"/> Data_Analytics    loading...
+│   ├── <img src="https://cdn.simpleicons.org/latex/008080" height="15"/> Ml_Mathematics    loading...
+│   ├── <img src="https://cdn.simpleicons.org/pandas/white" height="15"/> Pandas_&_NumPy    loading...
+│   └── <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="15"/> Bash_Scripting    loading...
+│
+└── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Side_Quests</b>
+    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Hollow_Knight     112%
+    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Hades             loading...
+    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Wizard_of_Legend  loading...
+    └── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Silksong          loading...
 
-Net Upgrade Size:       ∞ MB
-Estimated Time:         2.5 Years
-
-:: Proceed with installation? [Y/n] Y
-
-(1/9) playing hollow-knight        [#############################] 112%
-(2/9) upgrading c-language         [####################....]  80%
-(3/9) upgrading python             [###############.........]  60%
-(4/9) upgrading gen-ai-prompting   [##################......]  70%
-(5/9) installing sql-basics        [##########..............]  50%
-(6/9) installing bash-script       [........................]   0% (learning...)
-(7/9) installing data-analytics    [........................]   0%
-(8/9) installing ml-mathematics    [........................]   0%
-(9/9) installing pandas-numpy      [........................]   0%
-
-```
-
-### 🔗 Connect with me
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/white" height="30" alt="linkedin" style="margin-right: 500px;" />
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_ID" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/white" height="30" alt="instagram" style="margin-right: 500px;" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ID@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/white" height="30" alt="gmail" style="margin-right: 500px;" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/white" height="30" alt="discord" style="margin-right: 500px;" />
-  </a>
-</div>
+3 directories, 13 files
+</pre>
