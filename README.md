@@ -26,19 +26,19 @@
 <b>harinandan@arch-linux:</b>~$ tree -L 3
 
 <b>My_Skills</b>
-|
+│
 ├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Proficient</b>
-│   ├── <img src="https://cdn.simpleicons.org/c/A8B9CC" height="15"/> C_Language        80%
-│   ├── <img src="https://cdn.simpleicons.org/python/3776AB" height="15"/> Python            40%
-│   ├── <img src="https://cdn.simpleicons.org/mysql/4479A1" height="15"/> SQL_Database      50%
-│   ├── <img src="https://cdn.simpleicons.org/git/F05032" height="15"/> Git_Control       70%
+│   ├── <img src="https://skillicons.dev/icons?i=c" height="15"/> C_Language        80%
+│   ├── <img src="https://skillicons.dev/icons?i=python" height="15"/> Python            40%
+│   ├── <img src="https://skillicons.dev/icons?i=mysql" height="15"/> SQL_Database      50%
+│   ├── <img src="https://skillicons.dev/icons?i=git" height="15"/> Git_Control       70%
 │   └── <img src="https://cdn.simpleicons.org/openai/412991" height="15"/> GenAI_Prompting   70%
 │
 ├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Learning_Path</b>
-│   ├── <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="15"/> Data_Analytics    loading...
-│   ├── <img src="https://cdn.simpleicons.org/latex/008080" height="15"/> Ml_Mathematics    loading...
-│   ├── <img src="https://cdn.simpleicons.org/pandas/white" height="15"/> Pandas_&_NumPy    loading...
-│   └── <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="15"/> Bash_Scripting    loading...
+│   ├── <img src="https://skillicons.dev/icons?i=anaconda" height="15"/> Data_Analytics    loading...
+│   ├── <img src="https://skillicons.dev/icons?i=latex" height="15"/> Ml_Mathematics    loading...
+│   ├── <img src="https://skillicons.dev/icons?i=pytorch" height="15"/> Pandas_&_NumPy    loading...
+│   └── <img src="https://skillicons.dev/icons?i=bash" height="15"/> Bash_Scripting    loading...
 │
 └── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Side_Quests</b>
     ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Hollow_Knight     112%
@@ -48,3 +48,19 @@
 
 3 directories, 13 files
 </pre>
+
+### 🔗 Connect with me
+<div align="left">
+  <a href="https://discord.com/users/856398342907887616">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord" style="margin-right: 15px"/>
+  </a>
+  <a href="mailto:harinandankedambi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" style="margin-right: 15px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harinandan-k-b2b009321/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" style="margin-right: 15px"/>
+  </a>
+</div>
+
+### 🍄 Stats 
+<img src="https://komarev.com/ghpvc/?username=Harinandan-K&style=flat-square&color=1793D1&label=PROFILE+VIEWS" alt="Profile Views" />
