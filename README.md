@@ -4,7 +4,7 @@
 <br/>
 
 <pre>
-<b>harinandan@arch-linux</b>:~ ./welcome.sh
+<b>harinandan@arch-linux</b>:~$ ./welcome.sh
 
       /\          User       ->  Harinandan.K
      /  \         Role       ->  2nd Year BCA Student @ JAIN University
@@ -64,7 +64,7 @@ Oh yah, I use ARCH Btw! 😎
   <tr>
     <td colspan="2" align="center">
       <br/>
-      🚧 <b>Heads Up:</b> The Readme file is still under construction (coz im still <b>pooling</b> up more skills to <s>flex hard</s> make it more <i>catchy</i>)! Hold on tight, until then <b>GIT GOOD!!</b>
+      🚧 <b>Heads Up:</b> The Readme file is still under beta stage (coz im still <b>pooling</b> up more skills to <s>flex hard</s> make it more <i>catchy</i>!) Hold on tight, until then <b>GIT GOOD!!</b>
     </td>
   </tr>
 </table>
