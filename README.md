@@ -52,14 +52,22 @@ Oh yah, I use ARCH Btw! 😎
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🔗 Connect</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin&theme=light" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🍄 Live Stats</h3>
-      <img src="https://komarev.com/ghpvc/?username=Harinandan-K&style=flat-square&color=1793D1&label=PROFILE+VIEWS" alt="Profile Views" />
-    </td>
+      <a href="https://discord.com/users/856398342907887616">
+        <img src="https://skillicons.dev/icons?i=discord&theme=light" />
+      </a>&nbsp;
+      
+  <a href="mailto:harinandankedambi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>&nbsp;
+
+  <a href="https://www.linkedin.com/in/harinandan-k-b2b009321/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+  </td>
+  <td width="50%" align="center" valign="top">
+    <h3>🍄 Live Stats</h3>
+    <img src="https://komarev.com/ghpvc/?username=Harinandan-K&style=flat-square&color=1793D1&label=PROFILE+VIEWS" alt="Profile Views" />
+  </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
