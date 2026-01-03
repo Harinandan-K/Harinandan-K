@@ -26,28 +26,46 @@ Oh yah, I use ARCH Btw! 😎
 
 <b>My_Skills</b>
 │
-├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Proficient</b>
-│   ├── <img src="https://skillicons.dev/icons?i=c" height="15"/> C_Language        80%
-│   ├── <img src="https://skillicons.dev/icons?i=python" height="15"/> Python            40%
-│   ├── <img src="https://skillicons.dev/icons?i=mysql" height="15"/> SQL_Database      50%
-│   ├── <img src="https://skillicons.dev/icons?i=git" height="15"/> Git_Control       70%
-│   └── <img src="https://cdn.simpleicons.org/openai/412991" height="15"/> GenAI_Prompting   70%
+├── 💼 <b>PROFESSIONAL_TRACK</b>                 <span style="color: #8b949e;">// Goal: ML Engineer</span>
+│   │
+│   ├── 🗣️ <b>Core_Languages</b>
+│   │   ├── <img src="https://skillicons.dev/icons?i=c" height="15"/> <b>C_Language</b>            ●●●●○ 80%
+│   │   ├── <img src="https://skillicons.dev/icons?i=python" height="15"/> <b>Python</b>                ●●○○○ 40%
+│   │   └── <img src="https://skillicons.dev/icons?i=mysql" height="15"/> <b>SQL</b>                   ●●◐○○ 50%
+│   │
+│   ├── 🧠 <b>Machine_Learning_Core</b>
+│   │   ├── <img src="https://skillicons.dev/icons?i=pytorch" height="15"/> <b>PyTorch</b>               ○○○○○ Loading...
+│   │   ├── <img src="https://skillicons.dev/icons?i=sklearn" height="15"/> <b>Scikit_Learn</b>          ○○○○○ Loading...
+│   │   └── <img src="https://skillicons.dev/icons?i=tensorflow" height="15"/> <b>TensorFlow</b>            ○○○○○ Loading...
+│   │
+│   ├── 📊 <b>Data_Science_&_Viz</b>
+│   │   ├── <img src="https://skillicons.dev/icons?i=anaconda" height="15"/> <b>Pandas_&_NumPy</b>        ○○○○○ Loading...
+│   │   ├── <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="15"/> <b>Matplotlib</b>            ○○○○○ Loading...
+│   │   └── <img src="https://skillicons.dev/icons?i=anaconda" height="15"/> <b>Seaborn</b>               ○○○○○ Loading...
+│   │
+│   └── 🛠️ <b>MLOps_&_Environment</b>
+│       ├── <img src="https://skillicons.dev/icons?i=linux" height="15"/> <b>Linux_(Arch)</b>          ●●●○○ 60%
+│       ├── <img src="https://skillicons.dev/icons?i=bash" height="15"/> <b>Bash_Scripting</b>        ●●○○○ 30%
+│       ├── <img src="https://skillicons.dev/icons?i=git" height="15"/> <b>Git_&_GitHub</b>          ●●○○○ 40%
+│       └── <img src="https://skillicons.dev/icons?i=docker" height="15"/> <b>Docker</b>                ○○○○○ Loading...
 │
-├── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Learning_Path</b>
-│   ├── <img src="https://skillicons.dev/icons?i=anaconda" height="15"/> Data_Analytics    loading...
-│   ├── <img src="https://skillicons.dev/icons?i=latex" height="15"/> Ml_Mathematics    loading...
-│   ├── <img src="https://skillicons.dev/icons?i=pytorch" height="15"/> Pandas_&_NumPy    loading...
-│   └── <img src="https://skillicons.dev/icons?i=bash" height="15"/> Bash_Scripting    loading...
+├── 🎡 <b>CREATIVE_PLAYGROUND</b>                <span style="color: #8b949e;">// Hobbies</span>
+│   │
+│   ├── 🚁 <b>Hardware_Lab</b>
+│   │   ├── <img src="https://skillicons.dev/icons?i=arduino" height="15"/> <b>Arduino</b>             ●○○○○ 5%
+│   │   ├── <img src="https://skillicons.dev/icons?i=raspberrypi" height="15"/> <b>Raspberry_Pi</b>        ○○○○○ Loading...
+│   │   └── <img src="https://skillicons.dev/icons?i=cpp" height="15"/> <b>Embedded_C++</b>        ○○○○○ Loading...
+│   │
+│   └── 🎨 <b>Interface_Layer</b>
+│       ├── <img src="https://cdn.simpleicons.org/googlegemini/4E88D4" height="15"/> <b>GenAI_Prompting</b>     ●●●◐○ 70%
+│       └── <img src="https://skillicons.dev/icons?i=html,css" height="15"/> <b>Web_Frontend</b>      ●○○○○ 20%
 │
-└── <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="18" /> <b>Side_Quests</b>
-    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Hollow_Knight     112%
-    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Hades             loading...
-    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Wizard_of_Legend  loading...
-    └── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> Silksong          loading...
-
-3 directories, 13 files
+└── 🕹️ <b>SIDE_QUESTS</b>                      <span style="color: #8b949e;">// Games & Recreation</span>
+    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> <b>Hollow_Knight</b>         ●●●●●● 112%
+    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> <b>Hades</b>                 ○○○○○ Loading...
+    ├── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> <b>Wizard_of_Legend</b>      ○○○○○ Loading...
+    └── <img src="https://cdn.simpleicons.org/steam/white" height="15"/> <b>Silksong</b>              ○○○○○ Loading...
 </pre>
-
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
