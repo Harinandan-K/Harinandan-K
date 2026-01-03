@@ -19,7 +19,7 @@
 
 I am <b>Harinandan.K</b>, a 19 year old student at Bangalore, India.
 I am working towards a career in <b>Machine Learning Engineering</b>. 🧠
-I also enjoy <b>Arduino</b> and <b>Frount-end Web Dev</b> as hobbies (check out SANDBOX_MODE > Interface_Layer)
+I also enjoy <b>Arduino</b> and <b>Frount-end Web Dev</b> as hobbies (check out SANDBOX_MODE)
 Oh yah, I use ARCH Btw! 😎
 
 
@@ -60,7 +60,8 @@ Oh yah, I use ARCH Btw! 😎
 │   └── <img src="https://img.icons8.com/fluency/48/monitor.png" height="20"/> <b>Interface_Layer</b>
 │       ├── <img src="https://cdn.simpleicons.org/googlegemini/4E88D4" height="20"/> <b>GenAI_Prompting</b>       ●●●◐○ 70%
 │       └── <img src="https://img.icons8.com/fluency/48/internet.png" height="20"/> <b>Web_Frontend</b>                 // The Learning Path
-│           ├── <img src="https://skillicons.dev/icons?i=html,css" height="20"/> <b>HTML5_&_CSS3</b>   ●●○○○ 30%
+│           ├── <img src="https://skillicons.dev/icons?i=html" height="20"/> <b>HTML5</b>             ●●○○○ 30%
+|           ├── <img src="https://skillicons.dev/icons?i=css" height="20"/> <b>CSS3</b>              ○○○○○ Loading...
 │           ├── <img src="https://skillicons.dev/icons?i=js" height="20"/> <b>JavaScript</b>        ○○○○○ Loading...
 │           └── <img src="https://skillicons.dev/icons?i=react" height="20"/> <b>React_Framework</b>   ○○○○○ Loading...
 </details>│
