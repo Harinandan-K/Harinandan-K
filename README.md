@@ -19,6 +19,7 @@
 
 Hi! I'm <b>Harinandan.K</b>, 2nd year BCA student at JAIN University who loves figuring 
 out how things work. I write code to solve problems (and occasionally create new ones).
+Oh yah, I use ARCH Btw! 😎
 
 
 <b>harinandan@arch-linux:</b>~$ tree -L 3
