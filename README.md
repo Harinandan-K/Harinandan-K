@@ -23,6 +23,12 @@
 /_-''    ''-_\
 
 
+<b>harinandan@arch-linux</b>:~$ whoami
+
+Hi! I'm <b>Harinandan.K</b>, 2nd year BCA student at JAIN University who loves figuring 
+out how things work. I write code to solve problems (and occasionally create new ones).
+
+
 <b>harinandan@arch-linux:</b>~$ tree -L 3
 
 <b>My_Skills</b>
@@ -49,18 +55,23 @@
 3 directories, 13 files
 </pre>
 
-### 🔗 Connect with me
-<div align="left">
-  <a href="https://discord.com/users/856398342907887616">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord" style="margin-right: 15px"/>
-  </a>
-  <a href="mailto:harinandankedambi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" style="margin-right: 15px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harinandan-k-b2b009321/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" style="margin-right: 15px"/>
-  </a>
-</div>
-
-### 🍄 Stats 
-<img src="https://komarev.com/ghpvc/?username=Harinandan-K&style=flat-square&color=1793D1&label=PROFILE+VIEWS" alt="Profile Views" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🔗 Connect</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin&theme=light" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🍄 Live Stats</h3>
+      <img src="https://komarev.com/ghpvc/?username=Harinandan-K&style=flat-square&color=1793D1&label=PROFILE+VIEWS" alt="Profile Views" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      🚧 <b>Heads Up:</b> The Readme file is still under construction (coz im still <b>pooling</b> up more skills to <s>flex hard</s> make it more <i>catchy</i>)! Hold on tight, until then <b>GIT GOOD!!</b>
+    </td>
+  </tr>
+</table>
