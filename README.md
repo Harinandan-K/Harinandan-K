@@ -17,7 +17,7 @@
 
 <b>harinandan@arch-linux</b>:~$ whoami
 
-I am <b>Harinandan.K</b>, currently studying BCA (2nd Year) at <b>JAIN University</b>.
+I am <b>Harinandan.K</b>, a 19 year old student at Bangalore, India.
 I am working towards a career in <b>Machine Learning Engineering</b>. 🧠
 I also enjoy <b>Arduino</b> and <b>Frount-end Web Dev</b> as hobbies (check out SANDBOX_MODE > Interface_Layer)
 Oh yah, I use ARCH Btw! 😎
@@ -76,15 +76,15 @@ Oh yah, I use ARCH Btw! 😎
     <td width="50%" align="center" valign="top">
       <h3>🔗 Connect</h3>
       <a href="https://discord.com/users/856398342907887616">
-        <img src="https://skillicons.dev/icons?i=discord&theme=light" height="20"/>
+        <img src="https://skillicons.dev/icons?i=discord&theme=light"/>
       </a>&nbsp;
       
   <a href="mailto:harinandankedambi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="20"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
   </a>&nbsp;
 
   <a href="https://www.linkedin.com/in/harinandan-k-b2b009321/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="20"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
   </a>
   </td>
   <td width="50%" align="center" valign="top">
