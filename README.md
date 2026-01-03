@@ -1,14 +1,6 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1793D1&center=true&vCenter=true&width=500&lines=Hello+There!!;I+use+Arch+btw.;Welcome+to+my+profile." alt="Typing SVG" />
-</a>
-
-<br/>
-<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" />
-
+  <img src="./code_wars.gif" width="600" alt="Star Wars Intro" style="border-radius: 20px;" />
 </div>
-
 <br/>
 
 <pre>
