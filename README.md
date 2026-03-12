@@ -1,102 +1,64 @@
+
+
 <div align="center">
-  <img src="./code_wars.gif" width="600" alt="Star Wars Intro" style="border-radius: 20px;" />
+<code>╭────────────────────────────────────────────────────────────╮</code><br>
+<code>│ <b>user@harinandan: ~/identity</b>                                │</code><br>
+<code>├────────────────────────────────────────────────────────────┤</code><br>
+<code>│ <b>Role:</b>     Robotics SWE                                     │</code><br>
+<code>│ <b>OS:</b>       Arch Linux (Btw)                                 │</code><br>
+<code>│ <b>Uptime:</b>   20 years                                         │</code><br>
+<code>│ <b>Passions:</b> Coding, Music, Gardening & Indie Games           │</code><br>
+<code>│ <b>Level:</b>    2nd Year BCA Student                             │</code><br>
+<code>╰────────────────────────────────────────────────────────────╯</code>
 </div>
-<br/>
 
-<pre>
-<b>harinandan@arch-linux</b>:~$ ./welcome.sh
+<br>
+<hr>
+<br>
 
-      /\          User       ->  Harinandan.K
-     /  \         Role       ->  2nd Year BCA Student @ JAIN University
-    /    \        Uptime     ->  19 Years
-   /      \       Resolution ->  1920x1080 (Mental Clarity)
-  /   ,,   \
- /   |  |   \
-/_-''    ''-_\
+<div align="center">
+  <p>
+    <font size="6">“</font> <i>Me? Oh, I'm just a student learning to build robotics from the ground up</i> <br>
+    <font size="6"></font> <i></i> <br>
+    <i>by writing logic in</i> <img src="https://skillicons.dev/icons?i=c,python,bash" align="center" height="30"/> 
+    <i>to drive</i> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" align="center" height="30"/> <br><br>
+    <i>hardware running on</i> <img src="https://skillicons.dev/icons?i=linux" align="center" height="30"/> 
+    <i>developed on</i> <img src="https://skillicons.dev/icons?i=apple,linux" align="center" height="30"/> <br><br>
+    <i>and version-controlled with</i> <img src="https://skillicons.dev/icons?i=git,github" align="center" height="30"/>. <font size="6">”</font>
+  </p>
+</div>
 
+<br>
+<hr>
+<br>
 
-<b>harinandan@arch-linux</b>:~$ whoami
-
-I am <b>Harinandan.K</b>, a 19 year old student at Bangalore, India.
-I am working towards a career in <b>Machine Learning Engineering</b>. 🧠
-I also enjoy <b>Arduino</b> and <b>Frount-end Web Dev</b> as hobbies (check out SANDBOX_MODE)
-Oh yah, I use ARCH Btw! 😎
-
-
-<b>harinandan@arch-linux:</b>~$ tree -L 3
-
-<b>My_Skills</b>
-│
-├── <img src="https://img.icons8.com/fluency/48/briefcase.png" height="20"/> <b>PROFESSIONAL_TRACK</b>                 // Goal: ML Engineer
-│   │
-│   ├── <img src="https://img.icons8.com/fluency/48/source-code.png" height="20"/> <b>Core_Languages</b>
-│   │   ├── <img src="https://skillicons.dev/icons?i=c" height="20"/> <b>C_Language</b>            ●●●●○ 80%
-│   │   ├── <img src="https://skillicons.dev/icons?i=python" height="20"/> <b>Python</b>                ●●○○○ 40%
-│   │   └── <img src="https://skillicons.dev/icons?i=mysql" height="20"/> <b>SQL</b>                   ●●◐○○ 50%
-│   │
-│   ├── <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" height="20"/> <b>Machine_Learning_Core</b>
-│   │   ├── <img src="https://skillicons.dev/icons?i=pytorch" height="20"/> <b>PyTorch</b>               ○○○○○ Loading...
-│   │   ├── <img src="https://skillicons.dev/icons?i=sklearn" height="20"/> <b>Scikit_Learn</b>          ○○○○○ Loading...
-│   │   └── <img src="https://skillicons.dev/icons?i=tensorflow" height="20"/> <b>TensorFlow</b>            ○○○○○ Loading...
-│   │
-│   ├── <img src="https://img.icons8.com/fluency/48/bar-chart.png" height="20"/> <b>Data_Science_&_Viz</b>
-│   │   ├── <img src="https://skillicons.dev/icons?i=anaconda" height="20"/> <b>Pandas_&_NumPy</b>        ○○○○○ Loading...
-│   │   ├── <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="20"/> <b>Matplotlib</b>            ○○○○○ Loading...
-│   │   └── <img src="https://skillicons.dev/icons?i=anaconda" height="20"/> <b>Seaborn</b>               ○○○○○ Loading...
-│   │
-│   └── <img src="https://img.icons8.com/fluency/48/services.png" height="20"/> <b>MLOps_&_Environment</b>
-│       ├── <img src="https://skillicons.dev/icons?i=linux" height="20"/> <b>Linux_(Arch)</b>          ●●●○○ 60%
-│       ├── <img src="https://skillicons.dev/icons?i=bash" height="20"/> <b>Bash_Scripting</b>        ●●○○○ 30%
-│       ├── <img src="https://skillicons.dev/icons?i=git" height="20"/> <b>Git_&_GitHub</b>          ●●○○○ 40%
-│       └── <img src="https://skillicons.dev/icons?i=docker" height="20"/> <b>Docker</b>                ○○○○○ Loading...
-│
-<details><summary>├── <img src="https://img.icons8.com/fluency/48/sugar-cubes.png" height="20"/> <b>SANDBOX_MODE</b>                     // Hobbies (Click to Expand)</summary>
-│   │
-│   ├── <img src="https://img.icons8.com/fluency/48/motherboard.png" height="20"/> <b>Hardware_Lab</b>
-│   │   ├── <img src="https://skillicons.dev/icons?i=arduino" height="20"/> <b>Arduino</b>             ●○○○○ 5%
-│   │   ├── <img src="https://skillicons.dev/icons?i=raspberrypi" height="20"/> <b>Raspberry_Pi</b>        ○○○○○ Loading...
-│   │   └── <img src="https://skillicons.dev/icons?i=cpp" height="20"/> <b>Embedded_C++</b>        ○○○○○ Loading...
-│   │
-│   └── <img src="https://img.icons8.com/fluency/48/monitor.png" height="20"/> <b>Interface_Layer</b>
-│       ├── <img src="https://cdn.simpleicons.org/googlegemini/4E88D4" height="20"/> <b>GenAI_Prompting</b>       ●●●◐○ 70%
-│       └── <img src="https://img.icons8.com/fluency/48/internet.png" height="20"/> <b>Web_Frontend</b>                 // The Learning Path
-│           ├── <img src="https://skillicons.dev/icons?i=html" height="20"/> <b>HTML5</b>             ●●○○○ 30%
-|           ├── <img src="https://skillicons.dev/icons?i=css" height="20"/> <b>CSS3</b>              ○○○○○ Loading...
-│           ├── <img src="https://skillicons.dev/icons?i=js" height="20"/> <b>JavaScript</b>        ○○○○○ Loading...
-│           └── <img src="https://skillicons.dev/icons?i=react" height="20"/> <b>React_Framework</b>   ○○○○○ Loading...
-</details>│
-<details><summary>└── <img src="https://img.icons8.com/fluency/48/controller.png" height="20"/> <b>SIDE_QUESTS</b>                      // Games & Recreation (Click to Expand)</summary>
-    ├── <img src="https://cdn.simpleicons.org/steam/white" height="20"/> <b>Hollow_Knight</b>         ●●●●●● 112%
-    ├── <img src="https://cdn.simpleicons.org/steam/white" height="20"/> <b>Hades</b>                 ○○○○○ Loading...
-    ├── <img src="https://cdn.simpleicons.org/steam/white" height="20"/> <b>Wizard_of_Legend</b>      ○○○○○ Loading...
-    └── <img src="https://cdn.simpleicons.org/steam/white" height="20"/> <b>Silksong</b>              ○○○○○ Loading...
-</details></pre>
-
-<table width="100%">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🔗 Connect</h3>
+    <td align="left" valign="middle">
+      <b>🔗 Connect with me on:</b><br><br>
       <a href="https://discord.com/users/856398342907887616">
-        <img src="https://skillicons.dev/icons?i=discord&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=discord&theme=light" height="40"/>
       </a>&nbsp;
-      
-  <a href="mailto:harinandankedambi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
-  </a>&nbsp;
-
-  <a href="https://www.linkedin.com/in/harinandan-k-b2b009321/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
-  </a>
-  </td>
-  <td width="50%" align="center" valign="top">
-    <h3>🍄 Live Stats</h3>
-    <img src="https://komarev.com/ghpvc/?username=Harinandan-K&style=flat-square&color=1793D1&label=PROFILE+VIEWS" alt="Profile Views" />
-  </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      🚧 <b>Heads Up:</b> The Readme file is still under beta stage (coz im still <b>pooling</b> up more skills to <s>flex hard</s> make it more <i>catchy</i>!) Hold on tight, until then <b>GIT GOOD!!</b>
+      <a href="mailto:harinandankedambi@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40"/>
+      </a>&nbsp;
+      <a href="https://www.linkedin.com/in/harinandan-k-b2b009321/">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/>
+      </a>
+    </td>
+    <td align="right" valign="middle">
+      <b>📊 Stats:</b><br><br>
+      <img src="https://komarev.com/ghpvc/?username=Harinandan-K&style=flat-square&color=1793D1&label=VIEWS" alt="Profile Views" />
     </td>
   </tr>
 </table>
+
+<br>
+
+<details>
+  <summary align="center"><i>definitely shouldn't click this...</i></summary>
+  <br>
+  <div align="center">
+    <img src="./code_wars.gif" width="600" alt="Star Wars Intro" style="border-radius: 20px;" />
+  </div>
+</details>
