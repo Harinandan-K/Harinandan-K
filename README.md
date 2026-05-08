@@ -6,9 +6,9 @@
 <code>├────────────────────────────────────────────────────────────┤</code><br>
 <code>│ <b>Role:</b>     Robotics SWE                                     │</code><br>
 <code>│ <b>OS:</b>       Human OS v0.26b                                  │</code><br>
-<code>│ <b>Uptime:</b>   20 years                                         │</code><br>
+<code>│ <b>Uptime:</b>   19 years                                         │</code><br>
 <code>│ <b>Passions:</b> Coding, Music, Gardening & Indie Games           │</code><br>
-<code>│ <b>Level:</b>    2nd Year BCA Student                             │</code><br>
+<code>│ <b>Level:</b>    3rd Year BCA Student                             │</code><br>
 <code>╰────────────────────────────────────────────────────────────╯</code>
 </div>
 
