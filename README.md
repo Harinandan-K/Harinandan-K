@@ -12,8 +12,6 @@
  ⌖ Current Focus ~ SRE/DevOps Foundations
 </pre>
 <pre>
-Career Plan :
-<code>(●) Student</code> ─── <code>(○) SRE/DevOps</code> ─── <code>(○) Infrastructure</code> ─── <code>(○) Platform Engineer</code>
 </pre>
 </div>
 
@@ -23,7 +21,7 @@ Career Plan :
 
 <div align="center">
   <p>
-    <font size="6">“</font> <i>Me? Oh, I'm a BCA Hons student focusing on reliability and building robust infrastructure, currently preparing for an SRE/DevOps role.</i> <br>
+    <font size="6">“</font> <i>Me? Oh, I'm a BCA student focusing on reliability and building robust infrastructure, currently preparing for an SRE/DevOps role.</i> <br>
     <br>
     <i>I automate and manage systems with</i> <img src="https://skillicons.dev/icons?i=c,python,bash" align="center" height="30"/>  
     <i>and navigate environments on</i> <img src="https://skillicons.dev/icons?i=linux" align="center" height="30"/> <br><br>
